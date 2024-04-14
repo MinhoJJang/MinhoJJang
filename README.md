@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinhoJJang)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ahchjang)](https://solved.ac/ahchjang/)
+
+![aws-certified-solutions-architect-associate](https://github.com/MinhoJJang/MinhoJJang/assets/84257033/960229da-98ee-44ee-98ee-1195b33d3b3b)
