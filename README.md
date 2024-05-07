@@ -18,7 +18,16 @@ Welcome to my GitHub! I'm Minho Jang, interested in DevOps Engineer, Cloud Engin
 
 ## Achievements
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ahchjang)](https://solved.ac/ahchjang)
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <a href="https://solved.ac/ahchjang">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ahchjang" alt="Solved.ac Profile" style="width: 38%;">
+    </a>
+    <a href="https://www.codetree.ai/profiles/ahchjang">
+        <img src="https://banner.codetree.ai/v1/banner/ahchjang" alt="코드트리|실력진단-ahchjang" style="width: 56%;">
+    </a>
+</div>
+
+## Certificates
 
 ![AWS Certified Solutions Architect - Associate](https://github.com/MinhoJJang/MinhoJJang/assets/84257033/960229da-98ee-44ee-98ee-1195b33d3b3b)
 
