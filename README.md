@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm Minho Jang, interested in DevOps Engineer, Cloud Engin
 
 ## Github Status
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhoJJang&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=css-heavy-project1,scss-heavy-project2" width="38%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhoJJang&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=WP_TeamProject,WebTeamProject,WP_LAB" width="38%" />
 </a>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
