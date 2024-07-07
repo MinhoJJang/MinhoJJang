@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to my GitHub! I'm Minho Jang, interested in DevOps Engineer, Cloud Engineer and Solution Architect. Connect with me on [LinkedIn](www.linkedin.com/in/minho-jang-8765982b9).
+Welcome to my GitHub! I'm Minho Jang, interested in DevOps Engineer. Connect with me on [LinkedIn](www.linkedin.com/in/minho-jang-8765982b9).
 
 ## Github Status
 <a href="https://github.com/anuraghazra/github-readme-stats">
