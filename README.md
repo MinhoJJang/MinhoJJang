@@ -22,9 +22,6 @@ Welcome to my GitHub! I'm Minho Jang, interested in DevOps Engineer. Connect wit
     <a href="https://solved.ac/ahchjang">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ahchjang" alt="Solved.ac Profile" style="width: 38%;">
     </a>
-    <a href="https://www.codetree.ai/profiles/ahchjang">
-        <img src="https://banner.codetree.ai/v1/banner/ahchjang" alt="코드트리|실력진단-ahchjang" style="width: 56%;">
-    </a>
 </div>
 
 ## Certificates
