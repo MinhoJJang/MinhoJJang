@@ -29,10 +29,7 @@ Welcome to my GitHub! I'm Minho Jang, interested in DevOps Engineer. Connect wit
 
 ## Certificates
 
-<div style="display: flex; align-items: center; gap: 20px;">
-    <img src="https://www.credly.com/badges/198cb069-58f2-4d83-b56a-d2c391b03e60/public_url" alt="Credly" width="150">
-    <img src="https://github.com/MinhoJJang/MinhoJJang/assets/84257033/960229da-98ee-44ee-98ee-1195b33d3b3b" alt="AWS Certified Solutions Architect - Associate" width="150">
-</div>
+![AWS Certified Solutions Architect Associate Badge](https://github.com/MinhoJJang/MinhoJJang/assets/84257033/2b651b78-09e4-46e7-b1e2-d2310b2afedd)
 
 ## Statistics
 
