@@ -24,7 +24,7 @@ Welcome to my GitHub! I'm Minho Jang, interested in DevOps Engineer. Connect wit
     </a>
 </div>
 
-## Certificates
+## Certificate
 
 ![AWS Certified Solutions Architect Associate Badge](https://github.com/MinhoJJang/MinhoJJang/assets/84257033/2b651b78-09e4-46e7-b1e2-d2310b2afedd)
 
