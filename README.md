@@ -1,8 +1,20 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=Minho%20Jang&fontSize=40&fontColor=ffffff" width="100%"/>
 
+## Contact 
+<a href="https://www.linkedin.com/in/minho-jang-8765982b9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>       
+<a href="https://www.notion.so/personal-study-space/MinhoJang-s-Portfolio-7a8f72885df34b24b9083239f49913c3?pvs=4"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>             
+
+Email: ahchjang@naver.com
+
 ## Introduction
 
-Welcome to my GitHub! I'm Minho Jang, interested in DevOps Engineer. Connect with me on [LinkedIn](www.linkedin.com/in/minho-jang-8765982b9).
+**Welcome to my GitHub! I'm Minho Jang, interested in DevOps Engineer.**
+
+With a **strong understanding of various cloud platforms and DevOps tools**, I specialize in **designing and implementing architectures that are optimized for service requirements**. My experience with **AWS, GCP, and Kakao Cloud environments** allows me to build **stable and scalable systems** that balance **cost-effectiveness with performance**.
+
+Rather than simply applying technology, I focus on understanding the **core reasons behind my work** by continually asking **“why?”** This mindset drives me to achieve **deeper insights** and fosters my growth as a **proactive and self-directed engineer**.
+
+I place a **high value on teamwork** and contribute to the overall **improvement of team capabilities** through **effective communication** and **thorough documentation**. Committed to **continuous learning and growth**, I am dedicated to delivering **innovative and efficient solutions** in the cloud and DevOps domains.
 
 ## Github Status
 <a href="https://github.com/anuraghazra/github-readme-stats">
