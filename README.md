@@ -1,20 +1,48 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=Minho%20Jang&fontSize=40&fontColor=ffffff" width="100%"/>
 
-## Contact 
-<a href="https://www.linkedin.com/in/minho-jang-8765982b9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>       
-<a href="https://www.notion.so/personal-study-space/MinhoJang-s-Portfolio-7a8f72885df34b24b9083239f49913c3?pvs=4"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>             
+## 😀 Introduction
 
-Email: ahchjang@naver.com
+Welcome to my GitHub! I'm Minho Jang, an aspiring DevOps Engineer & SRE passionate about building stable, scalable, and cost-effective cloud solutions.
 
-## Introduction
+I am deeply interested in designing and implementing architectures tailored to specific service requirements, ensuring both stability and scalability. My experience spans across AWS, GCP, and Kakao Cloud, with a strong emphasis on finding the perfect balance between cost-effectiveness and performance optimization. I believe in a proactive approach to problem-solving, continuously asking "why?" to gain deeper insights and evolve as a more effective engineer.
 
-**Welcome to my GitHub! I'm Minho Jang, interested in DevOps Engineer.**
+##  👨‍💻 Projects
 
-With a **strong understanding of various cloud platforms and DevOps tools**, I specialize in **designing and implementing architectures that are optimized for service requirements**. My experience with **AWS, GCP, and Kakao Cloud environments** allows me to build **stable and scalable systems** that balance **cost-effectiveness with performance**.
+[![Projects](https://img.shields.io/badge/My%20Projects-View%20Here-blue?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/dae0b781cc3d4cbc93007e884e3ec8ea?pvs=21) 
 
-Rather than simply applying technology, I focus on understanding the **core reasons behind my work** by continually asking **“why?”** This mindset drives me to achieve **deeper insights** and fosters my growth as a **proactive and self-directed engineer**.
+## 👋 Connect With Me
 
-I place a **high value on teamwork** and contribute to the overall **improvement of team capabilities** through **effective communication** and **thorough documentation**. Committed to **continuous learning and growth**, I am dedicated to delivering **innovative and efficient solutions** in the cloud and DevOps domains.
+<a href="https://www.linkedin.com/in/minho-jang-8765982b9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.notion.so/personal-study-space/MinhoJang-s-Portfolio-7a8f72885df34b24b9083239f49913c3?pvs=4"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
+<a href="https://velog.io/@minhojjang/posts"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white"/></a>
+<a href="mailto:ahchjang@naver.com"><img src="https://img.shields.io/badge/Naver_Mail-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a> 
+
+## 🏆 **Achievements**
+
+🏆 Achievements
+1. 2024 SW Development Competition: Awarded first prize for developing the REINPUT service.
+
+2. Successfully reduced cloud infrastructure costs by 50% through resource optimization and strategic architectural changes.
+
+3. Improved deployment speed by 25% by optimizing the CI/CD pipeline in a project.
+
+4. Reduced Docker image size by 60% and build time by 38% through multi-stage builds and layer optimization.
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+<a href="https://solved.ac/ahchjang">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ahchjang" alt="Solved.ac Profile" style="width: 38%;">
+</a>
+</div>
+
+## 📚 **Certifications**
+
+**AWS Certified Solutions Architect – Associate (SAA)**      
+\
+![AWS Certified Solutions Architect Associate Badge](https://github.com/MinhoJJang/MinhoJJang/assets/84257033/2b651b78-09e4-46e7-b1e2-d2310b2afedd)
+
+## Tech Blog - Latest Post
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=minhojjang&color=white)](https://velog.io/@minhojjang/posts) 
 
 ## Github Status
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -28,19 +56,7 @@ I place a **high value on teamwork** and contribute to the overall **improvement
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=MinhoJJang&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="94%"/>
 </a>
 
-## Achievements
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <a href="https://solved.ac/ahchjang">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ahchjang" alt="Solved.ac Profile" style="width: 38%;">
-    </a>
-</div>
-
-## Certificate
-
-![AWS Certified Solutions Architect Associate Badge](https://github.com/MinhoJJang/MinhoJJang/assets/84257033/2b651b78-09e4-46e7-b1e2-d2310b2afedd)
-
-## Statistics
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinhoJJang&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## Statistic
+<a href="https://github.com/MinhoJJang"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinhoJJang&count_bg=%2379C83D&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Github+Hits&edge_flat=true"/></a>
 
