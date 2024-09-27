@@ -10,22 +10,39 @@ I am deeply interested in designing and implementing architectures tailored to s
 
 [![Projects](https://img.shields.io/badge/My%20Projects-View%20Here-blue?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/dae0b781cc3d4cbc93007e884e3ec8ea?pvs=21) 
 
-## 👋 Connect With Me
+## 🌐 Connect With Me
 
 <a href="https://www.linkedin.com/in/minho-jang-8765982b9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.notion.so/personal-study-space/MinhoJang-s-Portfolio-7a8f72885df34b24b9083239f49913c3?pvs=4"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
 <a href="https://velog.io/@minhojjang/posts"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white"/></a>
 <a href="mailto:ahchjang@naver.com"><img src="https://img.shields.io/badge/Naver_Mail-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a> 
 
+## 👨‍🎓 **Education**
+
+- **Gachon University, Department of Software Engineering**  
+  Senior  
+  Expected Graduation: February 2025  
+  GPA: 4.25/4.5
+- **La Trobe University (Big Data Management & Visualization)**  
+  Melbourne, Australia  
+  January 2024 - February 2024
+
+## 🏢 **Activities**
+
+- **Leets (University IT Club)**  
+  March 2023 - June 2024
+- **Goormtone Univ**  
+  March 2024 - Present
+- **GDG on Campus - Core Member**  
+  August 2024 - Present
+- **Cloud Club**  
+  August 2024 - Present
+
 ## 🏆 **Achievements**
 
-🏆 Achievements
 1. 2024 SW Development Competition: Awarded first prize for developing the REINPUT service.
-
 2. Successfully reduced cloud infrastructure costs by 50% through resource optimization and strategic architectural changes.
-
 3. Improved deployment speed by 25% by optimizing the CI/CD pipeline in a project.
-
 4. Reduced Docker image size by 60% and build time by 38% through multi-stage builds and layer optimization.
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
@@ -40,11 +57,7 @@ I am deeply interested in designing and implementing architectures tailored to s
 \
 ![AWS Certified Solutions Architect Associate Badge](https://github.com/MinhoJJang/MinhoJJang/assets/84257033/2b651b78-09e4-46e7-b1e2-d2310b2afedd)
 
-## Tech Blog - Latest Post
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=minhojjang&color=white)](https://velog.io/@minhojjang/posts) 
-
-## Github Status
+## 📊 Github Status
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhoJJang&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=WP_TeamProject,WebTeamProject,WP_LAB" width="38%" />
 </a>
@@ -57,6 +70,6 @@ I am deeply interested in designing and implementing architectures tailored to s
 </a>
 
 
-## Statistic
+## 📈 Statistic
 <a href="https://github.com/MinhoJJang"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinhoJJang&count_bg=%2379C83D&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Github+Hits&edge_flat=true"/></a>
 
