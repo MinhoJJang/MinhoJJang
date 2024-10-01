@@ -20,7 +20,6 @@ I am deeply interested in designing and implementing architectures tailored to s
 ## 👨‍🎓 **Education**
 
 - **Gachon University, Department of Software Engineering**  
-  Senior  
   Expected Graduation: February 2025  
   GPA: 4.25/4.5
 - **La Trobe University (Big Data Management & Visualization)**  
@@ -40,16 +39,15 @@ I am deeply interested in designing and implementing architectures tailored to s
 
 ## 🏆 **Achievements**
 
-1. 2024 SW Development Competition: Awarded first prize for developing the REINPUT service.
-2. Successfully reduced cloud infrastructure costs by 50% through resource optimization and strategic architectural changes.
-3. Improved deployment speed by 25% by optimizing the CI/CD pipeline in a project.
-4. Reduced Docker image size by 60% and build time by 38% through multi-stage builds and layer optimization.
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-<a href="https://solved.ac/ahchjang">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ahchjang" alt="Solved.ac Profile" style="width: 38%;">
-</a>
-</div>
+- **Reduced cloud costs by 50%** through continuous monitoring and optimization of resource usage
+- **Improved CI/CD pipeline efficiency**, reducing deployment time from 8 minutes to 6 minutes by separating CI and CD processes
+- **Optimized Docker image size** for Next.js frontend from 600MB to 250MB, decreasing build time from 13 minutes to 8 minutes
+- **Minimized cloud expenses** from $25 to $10.5 per month by leveraging free tiers and initial credits across multiple CSPs
+- **Enhanced infrastructure security** by implementing the principle of least privilege for IAM group permissions
+- **Improved deployment stability** by configuring GitHub Actions with rulesets for successful builds
+- **Streamlined troubleshooting processes** through comprehensive documentation, facilitating team collaboration and knowledge sharing
+- **Scaled user base to over 400 active users** with an average of 87 chat rooms created daily for the MoodMate project
+- **Implemented user-driven improvements** including inactive-user prevention, enhanced matching algorithms, PWA adoption, and Kakao Login integration, resulting in increased user satisfaction
 
 ## 📚 **Certifications**
 
@@ -68,6 +66,12 @@ I am deeply interested in designing and implementing architectures tailored to s
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=MinhoJJang&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="94%"/>
 </a>
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+<a href="https://solved.ac/ahchjang">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ahchjang" alt="Solved.ac Profile" style="width: 38%;">
+</a>
+</div>
 
 
 ## 📈 Statistic
