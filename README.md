@@ -2,9 +2,13 @@
 
 ## 😀 Introduction
 
-Welcome to my GitHub! I'm Minho Jang, an aspiring DevOps Engineer & SRE passionate about building stable, scalable, and cost-effective cloud solutions.
+Welcome to my GitHub! I'm Minho Jang.
 
-I am deeply interested in designing and implementing architectures tailored to specific service requirements, ensuring both stability and scalability. My experience spans across AWS, GCP, and Kakao Cloud, with a strong emphasis on finding the perfect balance between cost-effectiveness and performance optimization. I believe in a proactive approach to problem-solving, continuously asking "why?" to gain deeper insights and evolve as a more effective engineer.
+Modern services are more than simple problem solving, they are complex challenges that require multiple perspectives and multi-faceted analysis. To capture and solve these complexities, I hold a deep understanding of the design and flow of services as one of the most important values of an engineer.
+
+I believe that every service is made up of a set of interconnected pipelines, and when you look at the role each pipeline plays and the structure of the service as a whole from an architect's perspective, you gain a clearer understanding of the nature of the problem. With this insight, I constantly strive to be able to analyze problems from multiple angles and propose optimal solutions.
+
+I want to grow into an irreplaceable engineer who can solve complex problems with a deep understanding of design.
 
 ##  👨‍💻 Projects
 
@@ -28,26 +32,28 @@ I am deeply interested in designing and implementing architectures tailored to s
 
 ## 🏢 **Activities**
 
-- **Leets (University IT Club)**  
-  March 2023 - June 2024
-- **Goormtone Univ**  
-  March 2024 - Present
-- **GDG on Campus - Core Member**  
-  August 2024 - Present
 - **Cloud Club**  
   August 2024 - Present
+- **GDG on Campus - Core Member**  
+  August 2024 - Present
+- **Goormtone Univ**  
+  March 2024 - Present
+- **Leets (University IT Club)**  
+  March 2023 - June 2024
 
 ## 🏆 **Achievements**
 
-- **Reduced cloud costs by 50%** through continuous monitoring and optimization of resource usage
-- **Improved CI/CD pipeline efficiency**, reducing deployment time from 8 minutes to 6 minutes by separating CI and CD processes
-- **Optimized Docker image size** for Next.js frontend from 600MB to 250MB, decreasing build time from 13 minutes to 8 minutes
-- **Minimized cloud expenses** from $25 to $10.5 per month by leveraging free tiers and initial credits across multiple CSPs
-- **Enhanced infrastructure security** by implementing the principle of least privilege for IAM group permissions
-- **Improved deployment stability** by configuring GitHub Actions with rulesets for successful builds
-- **Streamlined troubleshooting processes** through comprehensive documentation, facilitating team collaboration and knowledge sharing
-- **Scaled user base to over 400 active users** with an average of 87 chat rooms created daily for the MoodMate project
-- **Implemented user-driven improvements** including inactive-user prevention, enhanced matching algorithms, PWA adoption, and Kakao Login integration, resulting in increased user satisfaction
+**Securing service stability and scalability through design-centered thinking**: By utilizing a 3-Tier architecture and Kakao Cloud, we built a stable operating environment for the workplace welfare service and secured the long-term stability of the system by designing for future expansion and maintenance. By establishing a separate CI/CD workflow based on GitHub Actions, we improved deployment automation and operational efficiency. In addition, by introducing the UseCase hierarchy, we prevented possible conflicts during development collaboration and improved code quality.
+
+**Real-time service monitoring and reliable infrastructure operations**: A dating service for 300+ users secured service stability by building AWS-based infrastructure and implementing a real-time monitoring system utilizing the ELK stack. We prevented service interruptions by monitoring disk usage and setting alarms through CloudWatch, and increased development efficiency by building a Jenkins-based CI/CD pipeline. We also contributed to improving user satisfaction by actively reflecting user feedback and improving features such as Kakao login switching and inactive user prevention.
+
+**Designed and implemented MSA architecture based on Amazon EKS**: Designed and implemented MSA architecture based on Amazon EKS in a low-grade student collaboration platform to provide optimized service performance through efficient resource utilization and service isolation. Built CDC and ETL pipelines to ensure data consistency and enhance real-time analytics capabilities; shortened development cycles and ensured stable software releases by building automated CI/CD pipelines; and improved user-friendliness through the design of STT service integration pipelines.
+
+**Dramatically improved image search speed and accuracy**: Reduced image similarity search speed by 99.8% by building a FAISS-based vector database in a fashion search app, and improved image feature extraction accuracy by 7% by introducing the EfficientNetB3 model. Collected unstructured data through Python-based web scraping, and designed and implemented a cloud infrastructure based on Google Cloud Platform to provide users with a fast and accurate search experience.
+
+**Built and shared a cloud-based CDC & ETL pipeline**: Wrote code to leverage Terraform to provision AWS Managed Service and build a CDC pipeline, which was shared with Cloud Club members to help spread knowledge.
+
+**Organized and ran Git/GitHub training programs**: As a core member of GDG on Campus, planned and ran the “GitHub Sprout Sessions” program and created training materials to help participants improve their Git/GitHub skills.
 
 ## 📚 **Certifications**
 
