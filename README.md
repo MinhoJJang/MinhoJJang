@@ -17,10 +17,13 @@ I want to grow into an irreplaceable engineer who can solve complex problems wit
 ## 🌐 Connect With Me
 
 <a href="https://www.linkedin.com/in/minho-jang-8765982b9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.notion.so/personal-study-space/MinhoJang-s-Portfolio-7a8f72885df34b24b9083239f49913c3?pvs=4"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
 <a href="https://velog.io/@minhojjang/posts"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white"/></a>
 <a href="mailto:ahchjang@naver.com"><img src="https://img.shields.io/badge/Naver_Mail-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a> 
-
+<!--
+<a href="https://www.notion.so/personal-study-space/MinhoJang-s-Portfolio-7a8f72885df34b24b9083239f49913c3?pvs=4">
+<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
+</a>
+-->
 ## 👨‍🎓 **Education**
 
 - **Gachon University, Department of Software Engineering**  
