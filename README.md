@@ -12,7 +12,7 @@ I want to grow into an irreplaceable engineer who can solve complex problems wit
 
 ##  👨‍💻 Projects
 
-[![Projects](https://personal-study-space.notion.site/143958b5e855809ea5b9d1a23f7f81e6?v=143958b5e855811699ab000c72111833) 
+[![Projects](https://img.shields.io/badge/My%20Projects-View%20Here-blue?style=for-the-badge&logo=notion&logoColor=white)](https://personal-study-space.notion.site/143958b5e855809ea5b9d1a23f7f81e6?v=143958b5e855811699ab000c72111833) 
 
 ## 🌐 Connect With Me
 
