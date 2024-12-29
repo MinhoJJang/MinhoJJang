@@ -2,7 +2,7 @@
 
 ## 😀 Introduction
 
-Welcome to my GitHub! I'm Minho Jang.
+Welcome to my GitHub! I'm Minho Jang, an engineer who provides solutions through systematic design.
 
 Modern services are more than simple problem solving, they are complex challenges that require multiple perspectives and multi-faceted analysis. To capture and solve these complexities, I hold a deep understanding of the design and flow of services as one of the most important values of an engineer.
 
@@ -44,19 +44,19 @@ I want to grow into an irreplaceable engineer who can solve complex problems wit
 - **Leets (University IT Club)**  
   March 2023 - June 2024
 
-## 🏆 **Achievements**
+## 🏆 **Core Competency**
 
-**Securing service stability and scalability through design-centered thinking**: By utilizing a 3-Tier architecture and KakaoCloud, we built a stable operating environment for the workplace welfare service and secured the long-term stability of the system by designing for future expansion and maintenance. By establishing a separate CI/CD workflow based on GitHub Actions, we improved deployment automation and operational efficiency. In addition, by introducing the UseCase hierarchy, we prevented possible conflicts during development collaboration and improved code quality.
+### **Architecture Design and Cloud Infrastructure Construction**
 
-**Real-time service monitoring and reliable infrastructure operations**: A dating service for 300+ users secured service stability by building AWS-based infrastructure and implementing a real-time monitoring system utilizing the ELK stack. We prevented service interruptions by monitoring disk usage and setting alarms through CloudWatch, and increased development efficiency by building a Jenkins-based CI/CD pipeline. We also contributed to improving user satisfaction by actively reflecting user feedback and improving features such as Kakao login switching and inactive user prevention.
+I established a foundation for stable services by designing and implementing various architectures including MSA, 3-tier, CDC/ETL, and STT in AWS, GCP, and KakaoCloud environments.
 
-**Designed and implemented MSA architecture based on Amazon EKS**: Designed and implemented MSA architecture based on Amazon EKS in a low-grade student collaboration platform to provide optimized service performance through efficient resource utilization and service isolation. Built CDC and ETL pipelines to ensure data consistency and enhance real-time analytics capabilities; shortened development cycles and ensured stable software releases by building automated CI/CD pipelines; and improved user-friendliness through the design of STT service integration pipelines.
+### **DevOps and Automation**
 
-**Dramatically improved image search speed and accuracy**: Reduced image similarity search speed by 99.8% by building a FAISS-based vector database in a fashion search app, and improved image feature extraction accuracy by 7% by introducing the EfficientNetB3 model. Collected unstructured data through Python-based web scraping, and designed and implemented a cloud infrastructure based on Google Cloud Platform to provide users with a fast and accurate search experience.
+I optimized deployment processes by building GitOps-based CI/CD pipelines. I reduced build times by over 20% through GitHub Actions workflow improvements and established an automated deployment system using ArgoCD.
 
-**Built and shared a cloud-based CDC & ETL pipeline**: Wrote code to leverage Terraform to provision AWS Managed Service and build a CDC pipeline, which was shared with Cloud Club members to help spread knowledge.
+### **Performance Optimization and Problem Solving**
 
-**Organized and ran Git/GitHub training programs**: As a core member of GDG on Campus, planned and ran the “GitHub Sprout Sessions” program and created training materials to help participants improve their Git/GitHub skills.
+I improved image search speed from 53 seconds to 0.1 seconds by implementing FAISS Vector DB, and reduced incident response time to within 30 minutes by establishing an ELK APM monitoring system.
 
 ## 📚 **Certifications**
 
