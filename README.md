@@ -17,8 +17,8 @@ I want to grow into an irreplaceable engineer who can solve complex problems wit
 ## 🌐 Connect With Me
 
 <a href="https://www.linkedin.com/in/minho-jang-8765982b9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://velog.io/@minhojjang/posts"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white"/></a>
 <a href="mailto:ahchjang@naver.com"><img src="https://img.shields.io/badge/Naver_Mail-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a> 
+<!--<a href="https://velog.io/@minhojjang/posts"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white"/></a>-->
 <!--
 <a href="https://www.notion.so/personal-study-space/MinhoJang-s-Portfolio-7a8f72885df34b24b9083239f49913c3?pvs=4">
 <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
@@ -28,21 +28,21 @@ I want to grow into an irreplaceable engineer who can solve complex problems wit
 
 - **Gachon University, Department of Software Engineering**  
   Expected Graduation: February 2025  
-  GPA: 4.25/4.5
+  Major GPA: 4.36/4.5
 - **La Trobe University (Big Data Management & Visualization)**  
   Melbourne, Australia  
   January 2024 - February 2024
 
-## 🏢 **Activities**
+## 🏢 **Extracurricular Activities**  
 
-- **Cloud Club**  
-  August 2024 - Present
-- **GDG on Campus - Core Member**  
-  August 2024 - Present
+- **Cloud Club - Club Executive Team**          
+  August 2024 - Present  
+- **GDG on Gachon - Club Executive Team**        
+  August 2024 - Present  
 - **Goormtone Univ**  
-  March 2024 - Present
-- **Leets (University IT Club)**  
-  March 2023 - June 2024
+  March 2024 - December 2024  
+- **Leets (Gachon University IT Club)**  
+  March 2023 - June 2024  
 
 ## 🏆 **Core Competency**
 
@@ -57,6 +57,29 @@ I optimized deployment processes by building GitOps-based CI/CD pipelines. I red
 ### **Performance Optimization and Problem Solving**
 
 I improved image search speed from 53 seconds to 0.1 seconds by implementing FAISS Vector DB, and reduced incident response time to within 30 minutes by establishing an ELK APM monitoring system.
+
+## 🚀 Tech Stack
+
+### 🖥 Backend  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white)  
+
+### 🗄 Database  
+![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white)  
+
+### 📊 Monitoring  
+![ELK Stack](https://img.shields.io/badge/ELK-%23000000.svg?style=flat&logo=elasticstack&logoColor=white) ![Sentry](https://img.shields.io/badge/Sentry-%234C4C4C.svg?style=flat&logo=sentry&logoColor=white)  
+
+### ☁ Cloud  
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazonwebservices&logoColor=white) ![KakaoCloud](https://img.shields.io/badge/KakaoCloud-%23FFCD00.svg?style=flat) ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=flat&logo=googlecloud&logoColor=white)  
+
+### ⚙ DevOps  
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=flat&logo=githubactions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat&logo=jenkins&logoColor=white) ![AWS CodeBuild](https://img.shields.io/badge/AWS%20CodeBuild-%23232F3E.svg?style=flat&logo=amazonwebservices&logoColor=white) ![AWS CodePipeline](https://img.shields.io/badge/AWS%20CodePipeline-%23232F3E.svg?style=flat&logo=amazonwebservices&logoColor=white) ![ArgoCD](https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=flat&logo=argo&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white)  
+
+### 📜 Infrastructure as Code (IaC)  
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)  
+
+### 📌 Collaboration & Others  
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=flat&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-%230052CC.svg?style=flat&logo=confluence&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-%234A154B.svg?style=flat&logo=slack&logoColor=white)  
 
 ## 📚 **Certifications**
 
@@ -83,6 +106,4 @@ I improved image search speed from 53 seconds to 0.1 seconds by implementing FAI
 </div>
 
 
-## 📈 Statistic
 <a href="https://github.com/MinhoJJang"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinhoJJang&count_bg=%2379C83D&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Github+Hits&edge_flat=true"/></a>
-
