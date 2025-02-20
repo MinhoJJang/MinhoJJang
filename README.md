@@ -2,13 +2,7 @@
 
 ## 😀 Introduction
 
-Welcome to my GitHub! I'm Minho Jang, an engineer who provides solutions through systematic design.
-
-Modern services are more than simple problem solving, they are complex challenges that require multiple perspectives and multi-faceted analysis. To capture and solve these complexities, I hold a deep understanding of the design and flow of services as one of the most important values of an engineer.
-
-I believe that every service is made up of a set of interconnected pipelines, and when you look at the role each pipeline plays and the structure of the service as a whole from an architect's perspective, you gain a clearer understanding of the nature of the problem. With this insight, I constantly strive to be able to analyze problems from multiple angles and propose optimal solutions.
-
-I want to grow into an irreplaceable engineer who can solve complex problems with a deep understanding of design.
+Hello, I'm Minho Jang – a dedicated engineer specializing in cloud infrastructure deployment, pipeline design, and systematic problem solving. With hands-on experience designing robust architectures (including MSA, 3-tier, CDC/ETL, and STT) across AWS, GCP, and KakaoCloud, I view every service as a series of interconnected pipelines. This architectural perspective allows me to analyze complex challenges from multiple angles and propose optimal, scalable solutions. My mission is to grow into an irreplaceable engineer who delivers reliable and innovative solutions for modern service design.
 
 ##  👨‍💻 Projects
 
@@ -27,8 +21,9 @@ I want to grow into an irreplaceable engineer who can solve complex problems wit
 ## 👨‍🎓 **Education**
 
 - **Gachon University, Department of Software Engineering**  
-  Expected Graduation: February 2025  
-  Major GPA: 4.36/4.5
+  Major GPA: **4.36**/4.5    
+  March 2020 - February 2025  
+  
 - **La Trobe University (Big Data Management & Visualization)**  
   Melbourne, Australia  
   January 2024 - February 2024
@@ -37,26 +32,30 @@ I want to grow into an irreplaceable engineer who can solve complex problems wit
 
 - **Cloud Club - Club Executive Team**          
   August 2024 - Present  
-- **GDG on Gachon - Club Executive Team**        
+- **GDG on Gachon - Organizer**        
   August 2024 - Present  
-- **Goormtone Univ**  
+- **Goormtone Univ - Member**  
   March 2024 - December 2024  
-- **Leets (Gachon University IT Club)**  
+- **Leets(Gachon University IT Club) - Member**  
   March 2023 - June 2024  
 
 ## 🏆 **Core Competency**
 
 ### **Architecture Design and Cloud Infrastructure Construction**
 
-I established a foundation for stable services by designing and implementing various architectures including MSA, 3-tier, CDC/ETL, and STT in AWS, GCP, and KakaoCloud environments.
+- Designed and implemented robust architectures (MSA, 3-tier, CDC/ETL, STT) across AWS, GCP, and KakaoCloud, establishing a stable foundation for scalable and reliable services.
 
 ### **DevOps and Automation**
 
-I optimized deployment processes by building GitOps-based CI/CD pipelines. I reduced build times by over 20% through GitHub Actions workflow improvements and established an automated deployment system using ArgoCD.
+- Built GitOps-based CI/CD pipelines to streamline deployment processes.
+- Reduced build times by over 20% through GitHub Actions workflow optimizations and implemented automated deployments using ArgoCD.
 
 ### **Performance Optimization and Problem Solving**
 
-I improved image search speed from 53 seconds to 0.1 seconds by implementing FAISS Vector DB, and reduced incident response time to within 30 minutes by establishing an ELK APM monitoring system.
+- Enhanced image search performance by integrating FAISS Vector DB, reducing search times from 53 seconds to 0.1 seconds.
+- Established an ELK APM monitoring system that minimized incident response time to within 30 minutes.
+
+
 
 ## 🚀 Tech Stack
 
