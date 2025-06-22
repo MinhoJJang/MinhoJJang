@@ -4,9 +4,9 @@
 
 Hello, I'm Minho Jang – a dedicated engineer specializing in cloud infrastructure deployment, pipeline design, and systematic problem solving. With hands-on experience designing robust architectures (including MSA, 3-tier, CDC/ETL, and STT) across AWS, GCP, and KakaoCloud, I view every service as a series of interconnected pipelines. This architectural perspective allows me to analyze complex challenges from multiple angles and propose optimal, scalable solutions. My mission is to grow into an irreplaceable engineer who delivers reliable and innovative solutions for modern service design.
 
-##  👨‍💻 Projects
+##  👨‍💻 Dev Log
 
-[![Projects](https://img.shields.io/badge/My%20Projects-View%20Here-blue?style=for-the-badge&logo=notion&logoColor=white)](https://personal-study-space.notion.site/143958b5e855809ea5b9d1a23f7f81e6?v=143958b5e855811699ab000c72111833) 
+[![My Dev Log](https://mhjang0705.notion.site/1b3958b5e8558059895fe21d9f18ef3b?v=1b3958b5e855802ab96a000c88a24c15&pvs=74) 
 
 ## 🌐 Connect With Me
 
