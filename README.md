@@ -6,18 +6,19 @@ Hello, I'm Minho Jang – a dedicated engineer specializing in cloud infrastruct
 
 ##  👨‍💻 Dev Log
 
-[![Notion Dev Log](https://img.shields.io/badge/Notion-Dev%20Log-black?logo=notion&logoColor=white)](https://mhjang0705.notion.site/1b3958b5e8558059895fe21d9f18ef3b?v=1b3958b5e855802ab96a000c88a24c15&pvs=74)
+<a href="https://mhjang0705.notion.site/1b3958b5e8558059895fe21d9f18ef3b?v=1b3958b5e855802ab96a000c88a24c15&pvs=74">
+  <img src="https://img.shields.io/badge/Notion_Dev_Log-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Dev Log"/>
+</a>
 
 ## 🌐 Connect With Me
 
-<a href="https://www.linkedin.com/in/minho-jang-8765982b9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:ahchjang@naver.com"><img src="https://img.shields.io/badge/Naver_Mail-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a> 
-<!--<a href="https://velog.io/@minhojjang/posts"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white"/></a>-->
-<!--
-<a href="https://www.notion.so/personal-study-space/MinhoJang-s-Portfolio-7a8f72885df34b24b9083239f49913c3?pvs=4">
-<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
+<a href="https://www.linkedin.com/in/minho-jang-8765982b9/">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
--->
+<a href="mailto:ahchjang@naver.com">
+  <img src="https://img.shields.io/badge/Naver_Mail-03C75A?style=for-the-badge&logo=Naver&logoColor=white" alt="Naver Mail"/>
+</a>
+
 ## 👨‍🎓 **Education**
 
 - **Gachon University, Department of Software Engineering**  
