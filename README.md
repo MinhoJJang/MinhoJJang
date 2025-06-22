@@ -6,7 +6,7 @@ Hello, I'm Minho Jang – a dedicated engineer specializing in cloud infrastruct
 
 ##  👨‍💻 Dev Log
 
-[![My Dev Log](https://mhjang0705.notion.site/1b3958b5e8558059895fe21d9f18ef3b?v=1b3958b5e855802ab96a000c88a24c15&pvs=74) 
+[![Notion Dev Log](https://img.shields.io/badge/Notion-Dev%20Log-black?logo=notion&logoColor=white)](https://mhjang0705.notion.site/1b3958b5e8558059895fe21d9f18ef3b?v=1b3958b5e855802ab96a000c88a24c15&pvs=74)
 
 ## 🌐 Connect With Me
 
