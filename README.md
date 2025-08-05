@@ -15,9 +15,20 @@ Hello, I'm Minho Jang – a dedicated engineer specializing in cloud infrastruct
 <a href="https://www.linkedin.com/in/minho-jang-8765982b9/">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:ahchjang@naver.com">
-  <img src="https://img.shields.io/badge/Naver_Mail-03C75A?style=for-the-badge&logo=Naver&logoColor=white" alt="Naver Mail"/>
+<a href="mailto:mhj0705.official@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
+
+## 🏢 **Experience**
+
+### **Nudge Healthcare**
+- **Site Reliability Engineer** (July 2025 - Present)
+- Backend Developer (February 2025 - July 2025)
+
+### **kakaoenterprise**
+- KakaoCloud Technical Documentation Assistant (October 2024 - December 2024)
+  - Responsible for creating, maintaining, and improving the accuracy and usability of Kakao Cloud technical documents.
+  - Collaborated with engineering teams to ensure documentation reflected the latest information, organized documentation repositories, and collected user feedback to enhance document quality.
 
 ## 👨‍🎓 **Education**
 
@@ -57,53 +68,25 @@ Hello, I'm Minho Jang – a dedicated engineer specializing in cloud infrastruct
 - Established an ELK APM monitoring system that minimized incident response time to within 30 minutes.
 
 
-
-## 🚀 Tech Stack
-
-### 🖥 Backend  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white)  
-
-### 🗄 Database  
-![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white)  
-
-### 📊 Monitoring  
-![ELK Stack](https://img.shields.io/badge/ELK-%23000000.svg?style=flat&logo=elasticstack&logoColor=white) ![Sentry](https://img.shields.io/badge/Sentry-%234C4C4C.svg?style=flat&logo=sentry&logoColor=white)  
-
-### ☁ Cloud  
-![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazonwebservices&logoColor=white) ![KakaoCloud](https://img.shields.io/badge/KakaoCloud-%23FFCD00.svg?style=flat) ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=flat&logo=googlecloud&logoColor=white)  
-
-### ⚙ DevOps  
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=flat&logo=githubactions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat&logo=jenkins&logoColor=white) ![AWS CodeBuild](https://img.shields.io/badge/AWS%20CodeBuild-%23232F3E.svg?style=flat&logo=amazonwebservices&logoColor=white) ![AWS CodePipeline](https://img.shields.io/badge/AWS%20CodePipeline-%23232F3E.svg?style=flat&logo=amazonwebservices&logoColor=white) ![ArgoCD](https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=flat&logo=argo&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white)  
-
-### 📜 Infrastructure as Code (IaC)  
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)  
-
-### 📌 Collaboration & Others  
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=flat&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-%230052CC.svg?style=flat&logo=confluence&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-%234A154B.svg?style=flat&logo=slack&logoColor=white)  
+  
 
 ## 📚 **Certifications**
 
-**AWS Certified Solutions Architect – Associate (SAA)**      
-\
-![AWS Certified Solutions Architect Associate Badge](https://github.com/MinhoJJang/MinhoJJang/assets/84257033/2b651b78-09e4-46e7-b1e2-d2310b2afedd)
-
-## 📊 Github Status
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhoJJang&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=WP_TeamProject,WebTeamProject,WP_LAB" width="38%" />
-</a>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=MinhoJJang&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width="56%" />
-</a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MinhoJJang&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="94%"/>
-</a>
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-<a href="https://solved.ac/ahchjang">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ahchjang" alt="Solved.ac Profile" style="width: 38%;">
-</a>
-</div>
-
-
-<a href="https://github.com/MinhoJJang"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinhoJJang&count_bg=%2379C83D&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Github+Hits&edge_flat=true"/></a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/badges/1bb94411-5c29-4461-b2aa-8570b3219bc5/public_url">
+        <img src="https://github.com/user-attachments/assets/e7852960-ae4c-46a6-a4dd-d176a20004ac" width="200" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/198cb069-58f2-4d83-b56a-d2c391b03e60/public_url">
+        <img src="https://github.com/MinhoJJang/MinhoJJang/assets/84257033/2b651b78-09e4-46e7-b1e2-d2310b2afedd" width="200" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Linux Foundation Certified System Administrator (LFCS)</b></td>
+    <td align="center"><b>AWS Certified Solutions Architect – Associate (SAA)</b></td>
+  </tr>
+</table>
