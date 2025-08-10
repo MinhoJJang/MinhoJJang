@@ -80,8 +80,7 @@ Hello, I'm Minho Jang – a dedicated engineer specializing in cloud infrastruct
       </a>
     </td>
     <td align="center">
-      <a href="https://www.credly.com/badges/198cb069-58f2-4d83-b56a-d2c391b03e60/public_url">
-        <img src="https://github.com/MinhoJJang/MinhoJJang/assets/84257033/2b651b78-09e4-46e7-b1e2-d2310b2afedd" width="200" />
+      <a href="https://www.credly.com/badges/198cb069-58f2-4d83-b56a-d2c391b03e60/public_url"><img width="200" height="200" alt="aws-certified-solutions-architect-associate" src="https://github.com/user-attachments/assets/5e79e4a4-543f-48ce-97a6-01d1f285f3a2" />
       </a>
     </td>
   </tr>
