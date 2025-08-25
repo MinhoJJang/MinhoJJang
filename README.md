@@ -68,24 +68,29 @@ Hello, I'm Minho Jang – a dedicated engineer specializing in cloud infrastruct
 - Established an ELK APM monitoring system that minimized incident response time to within 30 minutes.
 
 
-  
-
 ## 📚 **Certifications**
 
 <table>
   <tr>
     <td align="center">
       <a href="https://www.credly.com/badges/1bb94411-5c29-4461-b2aa-8570b3219bc5/public_url">
-        <img src="https://github.com/user-attachments/assets/e7852960-ae4c-46a6-a4dd-d176a20004ac" width="200" />
+          <img width="200" height="200" alt="lfcs-linux-foundation-certified-systems-administrator" src="https://github.com/user-attachments/assets/12c248ab-f478-4988-bd0f-6af3dac0e4f2"/>
       </a>
     </td>
     <td align="center">
-      <a href="https://www.credly.com/badges/198cb069-58f2-4d83-b56a-d2c391b03e60/public_url"><img width="200" height="200" alt="aws-certified-solutions-architect-associate" src="https://github.com/user-attachments/assets/5e79e4a4-543f-48ce-97a6-01d1f285f3a2" />
+      <a href="https://www.credly.com/badges/198cb069-58f2-4d83-b56a-d2c391b03e60/public_url">
+        <img width="200" height="200" alt="aws-certified-solutions-architect-associate" src="https://github.com/user-attachments/assets/5e79e4a4-543f-48ce-97a6-01d1f285f3a2" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/1000864f-ce51-46c2-86ea-3c796ecb3f15/public_url">
+        <img width="200" height="200" alt="hashicorp-certified-terraform-associate-003" src="https://github.com/user-attachments/assets/4d6a800b-e82f-4a3c-91e7-0c3e1458860f" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center"><b>Linux Foundation Certified System Administrator (LFCS)</b></td>
     <td align="center"><b>AWS Certified Solutions Architect – Associate (SAA)</b></td>
+    <td align="center"><b>HashiCorp Certified Terraform – Associate (HCTA)</b></td>
   </tr>
 </table>
